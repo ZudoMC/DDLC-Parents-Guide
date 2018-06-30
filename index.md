@@ -156,7 +156,7 @@ The game is only available on computers (Windows, Mac, Linux).
 
 ### The game can send messages to your phone encouraging you to carry out certain tasks
 
-**This is completely false**. This may be due to confusion between _Doki Doki Literature Club_ and the dangerous game known as "Blue Whale", in which players are encouraged to do tasks such as self-harming and eventually committing suicide. _Doki Doki Literature Club_ does not encourage any such behaviour, but does show it in graphic detail.
+**This is completely false**. This misconception may be due to confusion between _Doki Doki Literature Club_ and another visual novel, _Mystic Messenger_, which is a mobile game that includes this feature.
 
 ### The game is online / multiplayer
 
